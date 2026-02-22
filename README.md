@@ -6,14 +6,16 @@ A responsive e-commerce frontend application built using modern web technologies
 
 ## 🚀 Features
 
-- Responsive design (mobile-first approach)
+- Responsive design
 - Product listing with dynamic rendering
 - Category-based filtering
 - Product details page
 - Add to cart / remove from cart functionality
 - Cart quantity management
-- API integration with backend services
-- Protected routes (if authentication implemented)
+- API integration with backend services with axios
+- Protected routes
+- secure login with Google Auth and email login
+- Password reset Feature
 - Clean and reusable component structure
 
 ---
