@@ -1,6 +1,7 @@
-#🛒 E-Commerce Web Application – Frontend
+# 🛒 E-Commerce Web Application – Frontend
 
 A responsive e-commerce frontend application built using modern web technologies. This project provides a user-friendly interface for browsing products, managing carts, and interacting with backend APIs.
+
 ---
 
 ##🚀 Features
@@ -14,6 +15,7 @@ A responsive e-commerce frontend application built using modern web technologies
 - API integration with backend services
 - Protected routes (if authentication implemented)
 - Clean and reusable component structure
+
 ---
 
 ##🛠 Tech Stack
